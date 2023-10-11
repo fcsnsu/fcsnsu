@@ -4,6 +4,10 @@
 ![tip](https://badgen.net/badge/python/3.11.6/green?icon=packagephobia)
 
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=fcsnsu&repo=fcsnsu&theme=dark)-->
+### HI！我是风草，喜欢探索那些有趣的事情。
+> 我曾经跨过山河大海，也穿过人山人海，只为寻求那个独一无二的你。
+
+---
 
 <br>
 <!-- https://simpleicons.org/ -->
